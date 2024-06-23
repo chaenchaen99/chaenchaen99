@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+ 
+# ✨Android & Flutter Developer✨
+<br/>
+<a href="https://resume.qwertycvb.com">
+<img alt="Portfolio" src ="https://img.shields.io/badge/Resume-027DFD?&style=for-the-badge"/></a> 
+<a href="https://qwertcvb.notion.site/qwertcvb/HeeRyun-Jin-6c878cd2cd6f408ea3ac5f0ff5730c86](https://www.notion.so/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4)">
 
-<!--
-**chaenchaen99/chaenchaen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+ 
+##  Skills Set  <br/>
+<br/>
 
-Here are some ideas to get you started:
+### Main Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
+</br><br/>
+
+### Frameworks
+
+<img alt="Android Studio" src ="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<br/><br/>
+
+### Game Engine
+
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<br/><br/>
+
+### DevOps & Tools
+
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="VSC" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+<br/><br/>
+</div>
