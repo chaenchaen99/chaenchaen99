@@ -2,7 +2,7 @@
  
 # ✨Android & Flutter Developer✨
 <br/>
-<a href="https://resume.qwertycvb.com">
+<a href="https://resume.qwertycvb.com](https://freezing-sunstone-2d0.notion.site/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4)">
 <img alt="Portfolio" src ="https://img.shields.io/badge/Resume-027DFD?&style=for-the-badge"/></a> 
 <a href="https://qwertcvb.notion.site/qwertcvb/HeeRyun-Jin-6c878cd2cd6f408ea3ac5f0ff5730c86](https://www.notion.so/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4)">
 
