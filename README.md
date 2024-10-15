@@ -2,9 +2,9 @@
  
 # ✨Android & Flutter Developer✨
 <br/>
-<a href="https://freezing-sunstone-2d0.notion.site/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4">
+<a href="[https://freezing-sunstone-2d0.notion.site/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4](https://freezing-sunstone-2d0.notion.site/113c279a0c8a8017bfe0ccce30a6b904?pvs=4)">
 <img alt="Portfolio" src ="https://img.shields.io/badge/Resume-027DFD?&style=for-the-badge"/></a> 
-<a href="https://freezing-sunstone-2d0.notion.site/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4">
+<a href="[https://freezing-sunstone-2d0.notion.site/Resume-55cb7c2b4ac744baa7728d0fb29b0874?pvs=4](https://freezing-sunstone-2d0.notion.site/113c279a0c8a8017bfe0ccce30a6b904?pvs=4)">
 
 <br/>
 <br/>
